@@ -1,6 +1,7 @@
 # 临时邮箱服务（TempMail）
 
-[访问演示页面](https://www.fengemail.com/tempemail.html)
+演示网站1：[访问演示页面](https://www.fengemail.com/tempemail.html)
+演示网站2：[访问二号演示页面](https://tempmail365.cn/)
 
 ---
 
@@ -68,6 +69,5 @@
 
 ---
 
-欢迎大家为项目提出建议和贡献改进方案！
 
 [Tempmail365临时邮箱](https://tempmail365.cn/)
