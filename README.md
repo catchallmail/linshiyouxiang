@@ -1,4 +1,4 @@
-# 临时邮箱服务（TempMail）
+# 一次性邮箱服务（TempMail）
 
 演示网站1：[访问演示页面](https://www.fengemail.com/tempemail.html)
 
